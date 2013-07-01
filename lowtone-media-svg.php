@@ -29,3 +29,4 @@ namespace lowtone\media\svg {
 			Package::INIT_MERGED_PATH => __NAMESPACE__,
 		));
 
+}
